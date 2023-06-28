@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "neat"]
 	path = neat
 	url = https://github.com/cran/neat
-	shallow = true
-	registered = true
 [submodule "pencal"]
 	path = pencal
 	url = https://github.com/cran/pencal
-	shallow = true
-	registered = true
 [submodule "ptmixed"]
 	path = ptmixed
 	url = https://github.com/cran/ptmixed
-	shallow = true
-	registered = true
